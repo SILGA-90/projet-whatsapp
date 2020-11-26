@@ -1,0 +1,373 @@
+* {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    width: 100%;
+    
+}
+
+header nav {
+    width: 100%;
+    height:100px;
+   padding-top: 0%;
+    background-color:#1ebea5;
+    position: fixed;
+    z-index: 5;
+}
+#principal {
+    background-color: white;
+    width: 100%;
+    height: 500px;
+}
+
+#whatsapp_logo {
+    height: 35px;
+    width: 15%;
+    position: relative;
+    left: 80px;
+    top: 25px;
+    text-align: center;
+    font-size: 2px;
+}
+
+#whatsapp_logo a {
+    font-size: 35px;
+    display: inline;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+  
+}
+
+#whatsapp_logo a img {
+    height: 100%;
+    width: 15%;
+}
+
+    
+#first li {
+    width: 10%;
+    display: inline;
+   position: relative;
+   left: 405px;
+   margin: 20px;*
+   text-decoration: none;
+}
+
+#button1 {
+    float: right;
+    width: 50px;
+    height: 30px;
+    background-color: #1ebea5;
+    position: relative;
+    bottom: 40px;
+    right: 70px;
+    margin-top: 12px;
+    border: none;
+
+}
+
+#button1 img {
+    width: 20%;
+    height: 90%;
+}
+#button1 FR {
+    width: 30%;
+    height: 50px;
+    position: relative;
+    left: 100px;
+}
+#first li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    padding-top: 100px;
+    width: 40%;
+    height: 500px;
+    position: relative;
+    left: 130px;
+    bottom: 450px;
+}
+
+#div1 {
+    width: 80%;
+    position: relative;
+    left: 100px;
+    top: 110px;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 25px;
+    color: #1c1e21;
+}
+#div2 span{
+    width: 80%;
+    position: relative;
+    top: 120px;
+    left: 100px;
+   font-size: 0.9em;
+}
+#div3 {
+    width: 80%;
+    position: relative;
+    top: 140px;
+    left: 100px;
+    font-size: 10px;
+    opacity: 0.5;
+}
+
+.logo3 {  
+    width: 80%;
+    position: relative;
+    top: 160px;
+    left: 100px;
+    font-size: 0.9em ;
+   
+}
+.logo3 a {
+    text-decoration: none;
+    color: #1cb39b; 
+};
+}
+
+.logologo1 {
+    position: relative;
+    top: 5px;
+}
+
+.logologo2 {
+    position: relative;
+    top: 10px;
+}
+
+.jacob {
+    width: 40%;
+    float: right;
+    position: relative;
+    bottom: 950px;
+    right: 80px;
+    
+}
+
+.bottom {
+    width: 49%;
+    height: 665px;
+    background-color: #d0e9ea;
+    position: relative;
+    bottom: 350px; 
+}
+
+
+
+#divbot1 h1{
+    text-align: center;
+    position: relative;
+    top: 60px;
+    font-size: 20px;
+    line-height: 21px;
+    margin-bottom: 50px;
+    color: #1c1e21;
+}
+#divbot2 {
+    position: relative;
+    top: 45px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 15px;
+    margin-bottom: 50px;
+    color: #282828;
+
+}
+
+.bottom img {
+    margin-top: 45px;
+    margin-left: 150px;
+
+
+}
+
+#divbot2 a {
+text-decoration: none;
+color: #39b3ed;;
+
+} 
+.capture {
+    width: 49%;
+    height: 665px;
+    background-color: #edf8f5 ;
+    position: relative;
+    bottom: 1020px;
+    left: 650px;
+}
+.capture img {
+    position: relative;
+    top: 50px;
+    left: 125px;
+}
+
+.capture h3 {
+    position: relative;
+    top: 50px;
+    left: 200px;
+    color: rgba(0, 0, 0, .5);
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: .15em;
+    line-height: 17px;
+}
+.capture h1 {
+    position: relative;
+    top: 53px;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: .05em;
+    line-height: 29px;
+    left: 164px;
+}
+
+.capture div{    
+    position: relative;
+    top: 76px;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    
+}
+
+.button2 a {
+    text-decoration: none;
+    color: #1cb39b;;
+}
+.buttonA2 {
+border: 1px solid black;
+height: 60px;
+position: relative;
+bottom: 200PX;
+}
+
+
+.button2 {
+    background-color: transparent;
+    border: 2px solid #77d7c8;
+    border-radius: 30px;
+    width: 350px;
+    height: 59px ;
+    color: #1cb39b;
+    position: relative;
+    margin-left: 280px;
+    left: 180px;
+    position: relative;
+    bottom: 920px;
+
+}
+
+footer {
+    width: 100%;
+    height: 230px;
+    background-color: #273443;
+    position: relative;
+    bottom: 830px;
+}
+#foot{
+    width:100% ;
+    height: 40%;
+}
+
+#foot ul {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+#foot a {
+    text-decoration: none;
+color: white;
+}
+#foot h4 {
+    color: ivory;
+    opacity: 60%;
+}
+
+
+#footer1,#footer2,#footer3,#footer4{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+
+#footer3 {
+    position: relative;
+    bottom: 25px;
+    left: -33px;
+      
+}
+
+
+#footer1 {
+    width: 20%;
+    height: 190px;
+   margin-left: 50px;
+   position: relative;
+   top: 35px;
+   left: 50px;
+}
+
+#footer2 {
+    width: 20%;
+    height: 190px;
+    position: relative;
+    left: 50px;
+    bottom: 215px;
+    margin-left: 50px;
+    position: relative;
+    top: 35px;
+}
+
+footer3 {
+    width: 20%;
+    height: 250px;
+    border: 1px solid black;
+    position: relative;
+    left: 350px;
+    bottom: 215px;
+}
+
+#fin p{
+margin-top: 200px;
+margin-left: 90px;
+width: 25%;
+font-size: 14px;
+
+}
+
+.idem {
+    width: 100%;
+    height: 60px;
+    background-color: #232f3c;
+    position: relative;
+    bottom: 1050px;
+}
+
+#pire {
+    position: relative;
+    bottom: 208px;
+    left: 400px;
+}
+#pire a {
+    text-decoration: none;
+    color: white;
+}
+
+#encore {
+    position: relative;
+    top: 15px;
+    left: 6px;
+    color: white;
+    opacity: 70%;
+}
